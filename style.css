@@ -1,0 +1,78 @@
+/* .nav-color{
+    background-color: rgb(255, 255, 255) !important;
+}
+
+nav{
+    display: grid;
+    grid-column: repeat(12, 1fr);
+}
+
+nav h1{
+    margin: 0.75rem;
+    float: left;
+}
+
+nav a{
+    float: right;
+    margin: 0.75rem;
+    text-decoration: none;
+    color: rgb(77, 77, 77);
+}
+.active{
+    color: blue;
+} */
+
+.hero-txt-color{
+    color: rgb(85, 0, 108) !important;
+}
+
+.hero-sub-text{
+    color: rgb(71, 126, 255)
+}
+
+.footer-links{
+    text-decoration: none;
+    color: black;
+}
+
+.logo-anim{
+    transition: all 1s;
+}
+
+.logo-anim:hover{
+    transform: scale(1.25);
+}
+
+.brand-anim{
+    transition: all 1s;
+}
+
+.brand-anim:hover{
+    transform: scale(1.05);
+}
+
+.link-anim{
+    transition: all 1s;
+}
+
+.link-anim:hover{
+    transform:  scale(1.5);
+}
+
+.img-anim{
+    transition: all 1s;
+}
+
+.img-anim:hover{
+    transform:  scale(1.05);
+}
+hr{
+    /* display:line; */
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 1em;
+  margin-right: 1em;
+  border-style: solid;
+  border-width: 1px;
+  color: black;
+}
